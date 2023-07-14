@@ -1,0 +1,24 @@
+.intro
+ {
+    background-color: rgb(224, 140, 224);
+  /*  width: 70%;
+    max-width: 800px;
+    min-width: 400px; */
+    height: 8%;
+ /*   margin-left: auto;
+    margin-right: auto; */
+    margin-top: 100px; 
+    text-align: center;
+    
+}
+
+.intro2
+{
+    background-color: rgb(243, 255, 199);
+    /* margin-top: 6%; */
+    margin: 0 auto;
+   /* width: 70%;
+    max-width: 800px;
+    min-width: 400px; */
+    
+}
